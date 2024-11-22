@@ -288,3 +288,4 @@ D:\Web Application Development\EmployeesCh12\obj\Debug\net8.0\refint\EmployeesCh
 D:\Web Application Development\EmployeesCh12\obj\Debug\net8.0\EmployeesCh12.pdb
 D:\Web Application Development\EmployeesCh12\obj\Debug\net8.0\EmployeesCh12.genruntimeconfig.cache
 D:\Web Application Development\EmployeesCh12\obj\Debug\net8.0\ref\EmployeesCh12.dll
+D:\Web Application Development\EmployeesCh12\obj\Debug\net8.0\EmployeesCh12.sourcelink.json

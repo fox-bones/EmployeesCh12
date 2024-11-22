@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\Web Application Development\\EmployeesCh12\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\views\\employees\\deptcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:views\\employees\\deptcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\viewmodels\\departmentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:viewmodels\\departmentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\employeesch12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:employeesch12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\migrations\\20241111202305_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:migrations\\20241111202305_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|solutionrelative:models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4FC480B-3BB4-4C7B-9038-0D4251D99CFC}|EmployeesCh12.csproj|d:\\web application development\\employeesch12\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,6 +79,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Web Application Development\\EmployeesCh12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:30:02.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeptCount.cshtml",
+              "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Views\\Employees\\DeptCount.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\DeptCount.cshtml",
+              "ToolTip": "D:\\Web Application Development\\EmployeesCh12\\Views\\Employees\\DeptCount.cshtml",
+              "RelativeToolTip": "Views\\Employees\\DeptCount.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:29:37.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentGroup.cs",
+              "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\ViewModels\\DepartmentGroup.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DepartmentGroup.cs",
+              "ToolTip": "D:\\Web Application Development\\EmployeesCh12\\ViewModels\\DepartmentGroup.cs",
+              "RelativeToolTip": "ViewModels\\DepartmentGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:26:57.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesCh12",
+              "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\EmployeesCh12.csproj",
+              "RelativeDocumentMoniker": "EmployeesCh12.csproj",
+              "ToolTip": "D:\\Web Application Development\\EmployeesCh12\\EmployeesCh12.csproj",
+              "RelativeToolTip": "EmployeesCh12.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T15:26:23.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Models\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Models\\PaginatedList.cs",
+              "ToolTip": "D:\\Web Application Development\\EmployeesCh12\\Models\\PaginatedList.cs",
+              "RelativeToolTip": "Models\\PaginatedList.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:06:24.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\Web Application Development\\EmployeesCh12\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwFYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:37:32.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Web Application Development\\EmployeesCh12\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAiwNsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:34:38.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "20241111202305_initialCreate.cs",
               "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Migrations\\20241111202305_initialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241111202305_initialCreate.cs",
@@ -63,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -71,12 +190,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T20:10:03.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T20:10:03.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -84,12 +202,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T20:07:46.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T20:07:46.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EmployeeContext.cs",
               "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Models\\EmployeeContext.cs",
               "RelativeDocumentMoniker": "Models\\EmployeeContext.cs",
@@ -102,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "DepartmentLocation.cs",
               "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Models\\DepartmentLocation.cs",
               "RelativeDocumentMoniker": "Models\\DepartmentLocation.cs",
@@ -110,12 +227,11 @@
               "RelativeToolTip": "Models\\DepartmentLocation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T19:50:37.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T19:50:37.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Location.cs",
               "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Models\\Location.cs",
               "RelativeDocumentMoniker": "Models\\Location.cs",
@@ -123,12 +239,11 @@
               "RelativeToolTip": "Models\\Location.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wBYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:08:37.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T17:08:37.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Benefits.cs",
               "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Models\\Benefits.cs",
               "RelativeDocumentMoniker": "Models\\Benefits.cs",
@@ -136,12 +251,11 @@
               "RelativeToolTip": "Models\\Benefits.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wBoAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:08:24.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T17:08:24.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Models\\Department.cs",
@@ -149,12 +263,11 @@
               "RelativeToolTip": "Models\\Department.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:08:09.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T17:08:09.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Web Application Development\\EmployeesCh12\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
@@ -162,8 +275,7 @@
               "RelativeToolTip": "Models\\Employee.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:07:54.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T17:07:54.871Z"
             }
           ]
         }
